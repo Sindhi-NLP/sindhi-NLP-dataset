@@ -1,11 +1,11 @@
 # Twitter Dataset
 
-The dataset is the collection of sindhi articles from daily kawish newspaper from numerous well known authors. This dataset contains all available articles from [Kawish Article Gallery]('https://www.thekawish.com/Articles1/')
+The dataset is the collection of sindhi tweets from different twitter accounts and pages. This dataset contains number of sindhi tweets from different accounts present on the twitter
 
 
 ## Data collection methodology
 
-This dataset is created with help of tweepy api using python by fetching the different twitter pages and accounts tweets which are present in sindhi.
+This dataset is created with help of tweepy api using python.
 
 ### Description of the data
 
