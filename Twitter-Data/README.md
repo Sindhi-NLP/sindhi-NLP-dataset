@@ -33,8 +33,8 @@ Single File, format CSV.
 * **authorname** - *Initial work* - [Rahim Bux](https://github.com/RaheemBux)
 
 
-If you want to contribute have a look at the  [Contribution Guidelines](https://github.com/your/project/contributors) 
+If you want to contribute have a look at the  [Contribution Guidelines](https://github.com/Sindhi-NLP/sindhi-NLP-dataset/blob/main/CONTRIBUTING.md) 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Sindhi-NLP/sindhi-NLP-dataset/blob/main/LICENSE.md) file for details
