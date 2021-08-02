@@ -7,7 +7,7 @@ The dataset is the collection of sindhi articles from daily kawish newspaper fro
 
 This dataset is created by scraping the [Kawish Article Gallery]('https://www.thekawish.com/Articles1/') using python. Beautiful soup is used for the scraping the content of the page. 
 
-## Description of the data
+### Description of the data
 
 This data is organized in single CSV file with  the name daily kawish article dataset.csv.
 Data organization structure for the repository is shown below
@@ -33,7 +33,7 @@ Single File, format CSV.
 * **authorname** - *Initial work* - [Owais Raza](https://github.com/owais4321)
 
 
-If you want to contribute have a look at the  [Contribution Guidelines](https://github.com/your/project/contributors)
+If you want to contribute have a look at the  [Contribution Guidelines](https://github.com/your/project/contributors) 
 
 ## License
 
