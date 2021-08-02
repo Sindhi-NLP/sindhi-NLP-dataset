@@ -21,7 +21,7 @@ Twitter-Data/
 ```
 
 ### And file formats
-This folder contains only single csv file.
+Current this folder contains 2 csv file of twittes of 2 different accounts.
 .
 ```
 Single File, format CSV.
