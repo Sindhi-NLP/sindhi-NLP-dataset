@@ -1,4 +1,4 @@
-# Kawish Article Dataset
+# Twitter Dataset
 
 The dataset is the collection of sindhi articles from daily kawish newspaper from numerous well known authors. This dataset contains all available articles from [Kawish Article Gallery]('https://www.thekawish.com/Articles1/')
 
