@@ -1,23 +1,21 @@
-# Kawish Article Dataset
+# awamiawaz articles classification dataset
 
-The dataset is the collection of sindhi articles from daily kawish newspaper from numerous well known authors. This dataset contains all available articles from [Kawish Article Gallery]('https://www.thekawish.com/Articles1/')
+The dataset is the collection of sindhi articles from [awamiawaz.pk](https://awamiawaz.pk/).There three classes of articles in the dataset 1. entertainment 2. sports and 3. Science and Technology. This dataset is collection of 3k+ articles. This dataset can be used to test the classification techniques on sindhi text. 
 
 
 ## Data collection methodology
 
-This dataset is created by scraping the [Kawish Article Gallery]('https://www.thekawish.com/Articles1/') using python. Beautiful soup is used for the scraping the content of the page. 
+This dataset is created by scraping the [awamiawaz.pk](https://awamiawaz.pk/) using python. Beautiful soup is used for the scraping the content of the page. 
 
 ### Description of the data
 
-This data is organized in single CSV file with  the name daily kawish article dataset.csv.
+This data is organized in single CSV file with  the name Articles Dataset.csv.
 Data organization structure for the repository is shown below
 
 ```
-daily kawish articles/
-    -kawish article dataset.csv 
-    -README.md  
-  -README.md
-
+awamiawaz articles classification dataset/
+    -Articles Dataset.csv
+    -README.md
 ```
 
 ### And file formats
